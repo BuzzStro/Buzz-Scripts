@@ -1,0 +1,24 @@
+echo -e "oooooooooooooooooooooooooooooooooooooooooooooooooo\n\
+oooooooooooooooooooooooooooooooooooooooooooooooooo\n\
+oooooooooooooooooooolccclllllooooooooooooooooooooo\n\
+oooooooooooooooolc:;,'''',,,,,;::ccooooooooooooooo\n\
+ooooooooooooooc;,'''',;::::::;;,''',:loooooooooooo\n\
+ooooooooooooc,'.',:cloooooooooolc;''',:loooooooooo\n\
+ooooooooooo:'',;clooooooooooooooooc;''',cooooooooo\n\
+oooooooool;',:looooooooooooloooooool;'';cooooooooo\n\
+ooooooool;',cooooooooolcccccllloooool;';looooooooo\n\
+oooooooo:',coooooooooc:looooooooooooo:',cooooooooo\n\
+oooooool;';oooooooooc:loooooooooooooo:',cooooooooo\n\
+oooooool;':ooooooool::ooooooooooooooo:';looooooooo\n\
+oooooool;'cooooooooo:;loooooooooooooc,;loooooooooo\n\
+oooooooo;':oooooooool::looooooooool:;:looooooooooo\n\
+oooooooo:';looooooooolc:::cllllc::;:looooooooooooo\n\
+ooooooool,':loooooooooolc:::::::ccoooooooooooooooo\n\
+oooooooooc,',coooooooooooooooooooooooooooooooooooo\n\
+ooooooooooc,';looooooooooooooooooooooooooooooooooo\n\
+oooooooooooc,';loooooooooooooooooooooooooooooooooo\n\
+ooooooooooool:,;cooooooooooooooooooooooooooooooooo\n\
+ooooooooooooool:;;cooooooooooooooooooooooooooooooo\n\
+oooooooooooooooolc:::clooooooooooooooooooooooooooo\n\
+ooooooooooooooooooolcclllooooooooooooooooooooooooo\n\
+oooooooooooooooooooooooooooooooooooooooooooooooooo"

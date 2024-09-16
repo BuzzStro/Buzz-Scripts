@@ -1,0 +1,1 @@
+echo -e "For TURKISH\n\nBuzz-Distro<adi>\nbuzz-miim<adi>\n\nSuanlik olanlar\n\nbuzz-arch\nbuzz-fedora\nbuzz-debian\n\nFor ENGLISH\n\nBuzz-Distro<name>\nBuzz-meme<name>\n\nCurrent ones\n\nbuzz-arch\nbuzz-fedora\nbuzz-debian"
